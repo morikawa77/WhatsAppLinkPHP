@@ -1,6 +1,6 @@
 <?php
 
-$phone = ''; 	// Insert yoyr phone number
+$phone = ''; 	// Insert your phone number
 $text = ''; 	// Insert your initial message
 
 
